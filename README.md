@@ -1,6 +1,6 @@
 Dualsub
 =======
 
-This repository is [Dualsub](https://dualsub.netlify.com/) support system.
+This repository is [Dualsub](https://dualsub.netlify.app/) support system.
 
-![](https://dualsub-static.netlify.com/images/Screenshot_20191227_181715.jpg)
+![](https://dualsub-static.netlify.app/images/Screenshot_20191227_181715.jpg)
