@@ -1,3 +1,3 @@
 This repository is [Dualsub](https://www.dualsub.xyz/) support system.
 
-![](https://github.com/muzuiget/dualsub-support/assets/330812/b544ade6-9c35-4991-86d7-830e0b8366cc)
+![](https://github.com/muzuiget/dualsub-support/assets/330812/31284fbd-0614-4082-830b-cc2e019291c8)
