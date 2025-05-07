@@ -2,4 +2,4 @@
 
 This repository is used as the support system for Dualsub, you can discuss it in both Chinese and English.
 
-![](https://github.com/muzuiget/dualsub-support/assets/330812/723436cd-e6fe-4948-9044-30c83e2af1bb)
+![](https://github.com/user-attachments/assets/a5202d63-eee9-4ea7-b55e-14552bffe1b9)
