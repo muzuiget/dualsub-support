@@ -2,4 +2,4 @@
 
 This repository is used as the support system for Dualsub, you can discuss it in both Chinese and English.
 
-![](https://github.com/user-attachments/assets/a5202d63-eee9-4ea7-b55e-14552bffe1b9)
+![](https://github.com/user-attachments/assets/f44dfb45-2feb-4ef1-acc9-55a3aa306dee)
